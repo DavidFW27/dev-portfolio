@@ -10,3 +10,8 @@ margin-left:10px;
 li{
 margin-top:10px;
 }
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
